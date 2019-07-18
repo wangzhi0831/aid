@@ -46,3 +46,5 @@ f.close()
 # 关闭数据库
 cur.close()
 db.close()
+
+数据结构
